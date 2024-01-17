@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="amount">Enter Amount</string>
+    <string name="convert_button">Convert</string>
+</resources>
