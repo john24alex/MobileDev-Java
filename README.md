@@ -1,2 +1,2 @@
 # MobileDev-Java
-Java Introduction in Andoid Studio
+Java Introduction in Android Studio
